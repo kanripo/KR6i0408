@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 緣起聖道經
+#+DATE: 2015-08-30 20:18:15.360488
+#+PROPERTY: JUAN 0
